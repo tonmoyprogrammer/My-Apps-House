@@ -1,0 +1,11 @@
+.active{
+    border-bottom: 3px dotted violet;
+    font-weight: 500;
+    color:violet;
+    font:bold;
+}
+.active2{
+    font-weight: 500;
+    color:violet;
+    font:bold;
+}
